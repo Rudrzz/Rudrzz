@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rudrzz
 - 👀 I’m interested in weightlifting
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on javascript
-- 📫 How to reach me rudraspart@gmail.com
+- 🌱 I have learned python 
+- 💞️ I’m looking to collaborate on web & soft ware development
+- 📫 How to reach me rudramistry22505@gmail.com
 
 <!---
 Rudrzz/Rudrzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
